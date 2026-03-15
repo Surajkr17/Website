@@ -26,7 +26,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1pX3ZVu0J9616H1j5ed302h7gVync_ztr/view?usp=sharing",
     color: "#1a56db",
     textColor: "#ffffff",
-    logo: "casio_logo.png",
+    logo: "/casio_logo.png",
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1fkewtFZrosi3OqMqDZW_673PqvuSE4XF/view?usp=sharing",
     color: "#0e9f6e",
     textColor: "#ffffff",
-    logo: "kangaro_logo.png",
+    logo: "/kangaro_logo.png",
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1wtZYf38dOp_eN5-kote9NJ3ppp6a2B7y/view?usp=sharing",
     color: "#ff5a1f",
     textColor: "#ffffff",
-    logo: "classmate_logo.png",
+    logo: "/classmate_logo.png",
   },
   {
     id: 4,
@@ -56,7 +56,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1h-MxhBlUgwSPwp5C1tXDHycqCPKihaad/view?usp=sharing",
     color: "#7e3af2",
     textColor: "#ffffff",
-    logo: "montblanc_logo.png",
+    logo: "/montblanc_logo.png",
   },
   {
     id: 5,
@@ -66,7 +66,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/11yM3zW5WZwGyjngGmmeQQ_6CWflwa0RE/view?usp=sharing",
     color: "#c27803",
     textColor: "#ffffff",
-    logo: "solo_logo.png",
+    logo: "/solo_logo.png",
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1KP0ZtyZiXW2Z6txg5JZx4YVVxF5KdQCJ/view?usp=sharing",
     color: "#1f2937",
     textColor: "#ffffff",
-    logo: "omega_logo.png",
+    logo: "/omega_logo.png",
   },
   {
     id: 7,
@@ -86,7 +86,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1E8IyEqMp7IJiRF95qEWr1_yLVKLaDcBl/view?usp=sharing",
     color: "#be185d",
     textColor: "#ffffff",
-    logo: "parker_logo.png",
+    logo: "/parker_logo.png",
   },
   {
     id: 8,
@@ -96,7 +96,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1GLCTlJeBMIavGYR_aTwZeZWrnFRRzC-M/view?usp=sharing",
     color: "#0f766e",
     textColor: "#ffffff",
-    logo: "cross_logo.png",
+    logo: "/cross_logo.png",
   },
   {
     id: 9,
@@ -106,7 +106,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1Cx7BSfbK-cHXJMg4lyWZcHjQ3ntyt5MH/view?usp=sharing",
     color: "#b45309",
     textColor: "#ffffff",
-    logo: "polo_logo.png",
+    logo: "/polo_logo.png",
   },
   {
     id: 10,
@@ -116,7 +116,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/173Q_pmc_hakDwfs-U0hYTTx58_XJw_pM/view?usp=sharing",
     color: "#0369a1",
     textColor: "#ffffff",
-    logo: "submarine_logo.png",
+    logo: "/submarine_logo.png",
   },
   {
     id: 11,
@@ -126,7 +126,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1pRvI--Pid0vM9E5jFT65dbtZttMUuVkz/view?usp=sharing",
     color: "#065f46",
     textColor: "#ffffff",
-    logo: "sheaffer_logo.png",
+    logo: "/sheaffer_logo.png",
   },
   {
     id: 12,
@@ -136,7 +136,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/13Eq-OX-ivkBjzTKMnYgtC5_K55gM_Tp5/view?usp=sharing",
     color: "#7c3aed",
     textColor: "#ffffff",
-    logo: "scholar_logo.png",
+    logo: "/scholar_logo.png",
   },
   {
     id: 13,
@@ -146,7 +146,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/14vtmoENc9_AwpY4YbLjWwK_efGOAGCr_/view?usp=sharing",
     color: "#be123c",
     textColor: "#ffffff",
-    logo: "scotch_logo.png",
+    logo: "/scotch_logo.png",
   },
   {
     id: 14,
@@ -156,7 +156,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1ir3WchGMGCrpJQg914kDOeDe_1tymlkp/view?usp=sharing",
     color: "#b45309",
     textColor: "#ffffff",
-    logo: "munix_logo.png",
+    logo: "/munix_logo.png",
   },
   {
     id: 15,
@@ -166,7 +166,7 @@ const BRANDS = [
     catalogueUrl: "https://drive.google.com/file/d/1RN2zG4Gr5iCBU_U5HhoB0sJ9lpEXbilM/view?usp=sharing",
     color: "#0f766e",
     textColor: "#ffffff",
-    logo: "nightingale_logo.png",
+    logo: "/nightingale_logo.png",
   },
 ];
 
