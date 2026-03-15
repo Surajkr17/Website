@@ -7,11 +7,11 @@ const COMPANY = {
   tagline: "Your Trusted Distribution Partner",
   description:
     "We are authorised distributors supplying quality products across brands to retailers, stores, and businesses. Browse our brand catalogues below to discover the products we carry.",
-  phone: "+91 98765 43210",
-  email: "info@surajdistributors.com",
-  address: "Mumbai, Maharashtra, India",
+  phone: "+91 9148408844",
+  email: "suntekblr@gmail.com",
+  address: "Suntek Stationers Pvt ltd, Bangalore, India",
   mapsUrl: "https://maps.app.goo.gl/mCNHKup3ktUm3KPp7",
-  whatsapp: "919876543210",
+  whatsapp: "919148408844",
 };
 
 // ─── BRANDS CONFIG ───────────────────────────────────────────────────────────
@@ -20,93 +20,153 @@ const COMPANY = {
 const BRANDS = [
   {
     id: 1,
-    name: "Brand Alpha",
+    name: "Casio",
     category: "Personal Care",
     description: "Premium personal care & hygiene products",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1pX3ZVu0J9616H1j5ed302h7gVync_ztr/view?usp=sharing",
     color: "#1a56db",
     textColor: "#ffffff",
-    logo: "",
+    logo: "casio_logo.png",
   },
   {
     id: 2,
-    name: "Brand Beta",
+    name: "Kangaro",
     category: "Home Care",
     description: "Household cleaning & maintenance solutions",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1fkewtFZrosi3OqMqDZW_673PqvuSE4XF/view?usp=sharing",
     color: "#0e9f6e",
     textColor: "#ffffff",
-    logo: "",
+    logo: "kangaro_logo.png",
   },
   {
     id: 3,
-    name: "Brand Gamma",
+    name: "Classmate",
     category: "Food & Beverages",
     description: "Quality food & beverage essentials",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1wtZYf38dOp_eN5-kote9NJ3ppp6a2B7y/view?usp=sharing",
     color: "#ff5a1f",
     textColor: "#ffffff",
-    logo: "",
+    logo: "classmate_logo.png",
   },
   {
     id: 4,
-    name: "Brand Delta",
+    name: "Montblanc",
     category: "Healthcare",
     description: "Health & wellness products",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1h-MxhBlUgwSPwp5C1tXDHycqCPKihaad/view?usp=sharing",
     color: "#7e3af2",
     textColor: "#ffffff",
-    logo: "",
+    logo: "montblanc_logo.png",
   },
   {
     id: 5,
-    name: "Brand Epsilon",
+    name: "Solo",
     category: "Stationery",
     description: "Office & stationery supplies",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/11yM3zW5WZwGyjngGmmeQQ_6CWflwa0RE/view?usp=sharing",
     color: "#c27803",
     textColor: "#ffffff",
-    logo: "",
+    logo: "solo_logo.png",
   },
   {
     id: 6,
-    name: "Brand Zeta",
+    name: "Omega",
     category: "Electronics",
     description: "Consumer electronics & accessories",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1KP0ZtyZiXW2Z6txg5JZx4YVVxF5KdQCJ/view?usp=sharing",
     color: "#1f2937",
     textColor: "#ffffff",
-    logo: "",
+    logo: "omega_logo.png",
   },
   {
     id: 7,
-    name: "Brand Eta",
+    name: "Parker",
     category: "Apparel",
     description: "Clothing & fashion accessories",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1E8IyEqMp7IJiRF95qEWr1_yLVKLaDcBl/view?usp=sharing",
     color: "#be185d",
     textColor: "#ffffff",
-    logo: "",
+    logo: "parker_logo.png",
   },
   {
     id: 8,
-    name: "Brand Theta",
+    name: "Cross",
     category: "Kitchenware",
     description: "Kitchen tools & cookware solutions",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1GLCTlJeBMIavGYR_aTwZeZWrnFRRzC-M/view?usp=sharing",
     color: "#0f766e",
     textColor: "#ffffff",
-    logo: "",
+    logo: "cross_logo.png",
   },
   {
     id: 9,
-    name: "Brand Iota",
+    name: "Polo",
     category: "Sports & Fitness",
     description: "Sports equipment & fitness gear",
-    catalogueUrl: "https://drive.google.com/file/d/REPLACE_WITH_REAL_ID/view",
+    catalogueUrl: "https://drive.google.com/file/d/1Cx7BSfbK-cHXJMg4lyWZcHjQ3ntyt5MH/view?usp=sharing",
     color: "#b45309",
     textColor: "#ffffff",
-    logo: "",
+    logo: "polo_logo.png",
+  },
+  {
+    id: 10,
+    name: "Submarine",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/173Q_pmc_hakDwfs-U0hYTTx58_XJw_pM/view?usp=sharing",
+    color: "#0369a1",
+    textColor: "#ffffff",
+    logo: "submarine_logo.png",
+  },
+  {
+    id: 11,
+    name: "Sheaffer",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/1pRvI--Pid0vM9E5jFT65dbtZttMUuVkz/view?usp=sharing",
+    color: "#065f46",
+    textColor: "#ffffff",
+    logo: "sheaffer_logo.png",
+  },
+  {
+    id: 12,
+    name: "Scholar",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/13Eq-OX-ivkBjzTKMnYgtC5_K55gM_Tp5/view?usp=sharing",
+    color: "#7c3aed",
+    textColor: "#ffffff",
+    logo: "scholar_logo.png",
+  },
+  {
+    id: 13,
+    name: "Scotch",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/14vtmoENc9_AwpY4YbLjWwK_efGOAGCr_/view?usp=sharing",
+    color: "#be123c",
+    textColor: "#ffffff",
+    logo: "scotch_logo.png",
+  },
+  {
+    id: 14,
+    name: "Munix",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/1ir3WchGMGCrpJQg914kDOeDe_1tymlkp/view?usp=sharing",
+    color: "#b45309",
+    textColor: "#ffffff",
+    logo: "munix_logo.png",
+  },
+  {
+    id: 15,
+    name: "Nightingale",
+    category: "",
+    description: "",
+    catalogueUrl: "https://drive.google.com/file/d/1RN2zG4Gr5iCBU_U5HhoB0sJ9lpEXbilM/view?usp=sharing",
+    color: "#0f766e",
+    textColor: "#ffffff",
+    logo: "nightingale_logo.png",
   },
 ];
 
@@ -172,12 +232,7 @@ function BrandCard({ brand }: { brand: (typeof BRANDS)[0] }) {
         </div>
 
         <div className="text-center">
-          <p
-            className="opacity-75 uppercase tracking-widest mb-1"
-            style={{ fontSize: "0.65rem" }}
-          >
-            {brand.category}
-          </p>
+          
           <h3
             className="leading-tight"
             style={{
@@ -188,12 +243,7 @@ function BrandCard({ brand }: { brand: (typeof BRANDS)[0] }) {
           >
             {brand.name}
           </h3>
-          <p
-            className="opacity-80 mt-1 leading-snug"
-            style={{ fontSize: "0.78rem" }}
-          >
-            {brand.description}
-          </p>
+          
         </div>
       </div>
 
@@ -251,8 +301,7 @@ export default function App() {
             className="w-24 h-24 rounded-3xl flex items-center justify-center shadow-2xl"
             style={{ background: "rgba(255,255,255,0.1)", border: "2px solid rgba(255,255,255,0.2)" }}
           >
-            {/* Replace the initials below with an <img> tag pointing to your actual logo */}
-            <span style={{ fontSize: "2rem", fontWeight: 800, color: "#ffffff" }}>SD</span>
+            <img src="suntek_logo.png" alt="Suntek Stationers Logo" className="w-20 h-20 object-contain rounded-2xl" />
           </div>
 
           <div>
